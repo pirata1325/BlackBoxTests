@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTriangle" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-08T22:31:20" hostname="DESKTOP-417G4JV" time="0.02">
+  <properties/>
+  <testcase name="testToCheckIfTheTriangleIsEquilateral()" classname="TestTriangle" time="0.01"/>
+  <testcase name="testToCheckIfTheTriangleIsIsossceles()" classname="TestTriangle" time="0.001"/>
+  <testcase name="testToCheckIfTheTriangleIsImpossible()" classname="TestTriangle" time="0.0"/>
+  <testcase name="testTriangleArea()" classname="TestTriangle" time="0.001"/>
+  <testcase name="testToCheckIfTheTriangleIsScalene()" classname="TestTriangle" time="0.001"/>
+  <testcase name="testTrianglePerimeter()" classname="TestTriangle" time="0.0"/>
+  <testcase name="testToCheckIfTheTriangleIsRightAngled()" classname="TestTriangle" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
